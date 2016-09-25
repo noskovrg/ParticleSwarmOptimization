@@ -1,7 +1,7 @@
 //////////////////////////////////////////////////////
-//           	    Developed by 					//
-//		  Noskov Roman <noskovrg@gmail.com>			//
-//					 16/may/2016					//
+//           	     Developed by 		    //
+//	   Noskov Roman <noskovrg@gmail.com>	    //
+//		     16/may/2016		    //
 //////////////////////////////////////////////////////
 
 // Compile: nvcc -lGL -lGLU -lglut -lGLEW ready.cu 
